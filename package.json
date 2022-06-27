@@ -1,0 +1,28 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Command line role playing game",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZachFulmer/jest-another-RPG.git"
+  },
+  "keywords": [
+    "RPG",
+    "Role",
+    "Playing",
+    "Game"
+  ],
+  "author": "Zachary Fulmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZachFulmer/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/ZachFulmer/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
